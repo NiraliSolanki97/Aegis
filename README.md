@@ -40,9 +40,15 @@ Aegis is piloted for South Korea but designed as a globally scalable system. The
 - ✅ Medical card UI with Gemini integration
 - ⏳ Gemini API response fix in progress
 - ⏳ UI polish + end-to-end testing
+- 
+## 📱 Aegis Mobile Application – Preview
+
+![screen 1 assets aegis app](https://github.com/user-attachments/assets/5ab0e8e9-dba0-448e-a0d6-07f7bf61f7b6)
+![screen 2 assets aegis ](https://github.com/user-attachments/assets/96413a8e-0241-431b-8e5f-8b73b564376a)
+![screen 3 assets aegis app ](https://github.com/user-attachments/assets/0a4cd19b-23fb-4e05-90bf-c5348b0f3ebb)
+
 
 ## Developer
 Nirali Solanki · [GitHub](https://github.com/NiraliSolanki97)
 
-![WhatsApp Image 2026-04-08 at 11 56 04 PM](https://github.com/user-attachments/assets/e5965dbb-2258-4e1f-885f-ad69fe62442c)
 
