@@ -43,3 +43,6 @@ Aegis is piloted for South Korea but designed as a globally scalable system. The
 
 ## Developer
 Nirali Solanki · [GitHub](https://github.com/NiraliSolanki97)
+
+![WhatsApp Image 2026-04-08 at 11 56 04 PM](https://github.com/user-attachments/assets/e5965dbb-2258-4e1f-885f-ad69fe62442c)
+
